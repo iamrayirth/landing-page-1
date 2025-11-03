@@ -5,6 +5,8 @@ All text is placeholder **Lorem Ipsum**, so you can easily replace it with your 
 
 This project is designed as a **template repository**, meaning you can use it as a starting point for your own landing page or any website project.
 
+## 🚀 Live Preview
+[Click here to preview the site](https://htmlpreview.github.io/?https://github.com/iamrayirth/landing-page-1/blob/master/index.html)
 
 ## ✨ Features
 - Simple and elegant design  
